@@ -5,7 +5,7 @@ Linux enthusiast, self-hosting addict, and passionate about low-level systems an
 
 **Currently working on:**
 - Exploring the internals of GNU/Linux distributions
-- Designing and operating self-hosted infrastructure
+- Designing and operating self-hosted infrastructure (Nix 👀)
 
 🎓 Starting my new role at Cerema (2025–2027)
 
